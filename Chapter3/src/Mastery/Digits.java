@@ -23,7 +23,7 @@ public class Digits
 	        System.out.println("The Tens Place Digit Is: " + tens);
 	        System.out.println("And The Ones Place Digit Is: " + ones);
 	        
-	        //
+	        
 	        
 	    }
 	}
