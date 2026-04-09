@@ -29,7 +29,7 @@ public static void main(String[] args) {
     
     // Output result
     System.out.println("Your Total Grade Is: " + letterGrade);
-  
+  //
     
 	}
 
