@@ -22,7 +22,7 @@ public static void main(String[] args) {
 	 	        }
 	 	        
 	 	        // Output result
-	 	        System.out.println("The sum of the digits is: " + sum);
+	 	        System.out.println("The Sum Of The Digits Is: " + sum);
 	 	        
 	 	    }
 	 	}
